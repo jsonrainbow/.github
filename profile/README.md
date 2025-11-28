@@ -2,7 +2,7 @@
 
 Welcome to JSON Rainbow! 🌈
 
-We are an open-source organization focused on building tools and libraries for working with JSON data.
+We are an open-source organization focused on building tools and libraries for working with JSON Schemas for PHP.
 
 ## Our Projects
 
